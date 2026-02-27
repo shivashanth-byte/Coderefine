@@ -1,0 +1,17 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract technological background with glowing lines",
+      "imageUrl": "https://picsum.photos/seed/coderefine1/1200/800",
+      "imageHint": "abstract technology"
+    },
+    {
+      "id": "user-avatar",
+      "description": "Professional developer avatar",
+      "imageUrl": "https://picsum.photos/seed/user1/100/100",
+      "imageHint": "developer portrait"
+    }
+  ]
+}
